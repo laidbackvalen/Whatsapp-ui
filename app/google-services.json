@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038000151553",
+    "project_id": "whatsappt-tabandviewpager",
+    "storage_bucket": "whatsappt-tabandviewpager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038000151553:android:54dd3886b6702ceb88b400",
+        "android_client_info": {
+          "package_name": "com.example.whatsappttabandviewpager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038000151553-adm4t7g8nhj4amveqfa9kh97bfeq19ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8Mir05SGRe4-PREQVCQdlPm8IA8uyoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038000151553-adm4t7g8nhj4amveqfa9kh97bfeq19ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
